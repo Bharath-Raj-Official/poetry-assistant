@@ -6,7 +6,7 @@ Words that look alike do not always rhyme. This tool helps a writer search by pr
 
 ## Demo
 
-Local preview works with the setup below. GitHub Pages publication is pending destination authentication; a live URL will be added after verification.
+[Open the live demo](https://bharath-raj-official.github.io/poetry-assistant/). Local setup is also available below.
 
 ## What it does
 
